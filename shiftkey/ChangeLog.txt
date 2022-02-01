@@ -1,0 +1,22 @@
+Version 1.2
+--------------------------------------------------------------
+April 30 2019 :
+- Minor HTML Corrections
+- Added 9 Inner Pages
+- Added 9 predefined color schemes
+- Added Few New Sections
+- Updated Documentation
+etc.
+
+
+Version 1.1
+--------------------------------------------------------------
+April 24 2019 :
+- Minor HTML Corrections
+- Added Onscroll Animation
+
+
+Version 1.0
+--------------------------------------------------------------
+April 24 2019 :
+- Template Release
