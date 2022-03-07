@@ -129,7 +129,7 @@
 
 					      	<!-- Header Button -->
 					      	<span class="navbar-text white-color">
-								<a href="#cta-3" class="btn btn-tra-white primary-color-hover">Try For Free</a>
+								<a href="getstreamops.html" class="btn btn-tra-white primary-color-hover">Try For Free</a>
 						    </span>
 
 					    </div>	<!-- End Navigation Menu -->
@@ -413,16 +413,16 @@
             <div class="row d-flex align-items-center pricing-row primary-theme">
 
                <!-- STANDARD PRICING PLAN -->
-               <div class="col-md-6">                                   
+               <div class="col-md-6">
                   <div class="pricing-table highlight">
 
-                     <!-- Plan Price  -->                                               
-                     <div class="pricing-plan">                                            
-                        <h3 class="h3-lg">Standard</h3>                                    
-                     </div>                                                             
+                     <!-- Plan Price  -->
+                     <div class="pricing-plan">
+                        <h3 class="h3-lg">Standard</h3>
+                     </div>
 
                      <!-- Pricing Plan Features  -->
-                     <ul class="features">                                              
+                     <ul class="features">
                         <li><i class="fas fa-stop-circle"></i> Concept Development</li>
                         <li><i class="fas fa-stop-circle"></i> UI Design</li>
                         <li><i class="fas fa-stop-circle"></i> App Management</li>
